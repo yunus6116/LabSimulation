@@ -1,0 +1,8 @@
+size 5
+turn_count 3
+entity 1 ACDEF 2x2 infected
+entity 2 BDFHC 4x5
+entity 3 CDHGF 5x5
+turn 1 2x3 4x5 5x4
+turn 2 3x3 4x4 5x3
+turn 3 3x4 4x3 5x2
