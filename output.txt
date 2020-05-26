@@ -1,0 +1,21 @@
+Normal   : 2
+Infected : 0
+Dead     : 8
+Recovered: 7
+entity 1 19x6 dead
+entity 2 5x3 normal
+entity 3 17x14 dead
+entity 4 13x9 immune
+entity 5 1x10 dead
+entity 6 18x7 dead
+entity 7 4x13 immune
+entity 8 21x10 immune
+entity 9 15x18 immune
+entity 10 20x11 immune
+entity 11 2x14 dead
+entity 12 15x21 immune
+entity 13 6x6 normal
+entity 14 7x19 dead
+entity 15 17x11 immune
+entity 16 5x14 dead
+entity 17 7x4 dead
